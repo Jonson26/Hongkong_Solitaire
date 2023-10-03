@@ -2,7 +2,7 @@ import sys
 import pygame
 import random
 from threading import Thread
-from settings import Settings
+from util.settings import Settings
 from util.spritesheet import SpriteSheet
 from util.card import Deck
 from util.ui import UI
