@@ -1,0 +1,17 @@
+[project]
+name = "hongkongsol_Jonson26"
+version = "0.1.0"
+authors = [
+    {name = "Filip Jamroga", email = "fjamroga@gmail.com"},
+]
+description = ""
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    "pygame >= 2.5.2",
+]
